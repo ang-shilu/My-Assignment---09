@@ -6,5 +6,6 @@ Key Features:
 - Cheaper rates are encouraged.
 - Traditional Toys are also not compromised.
 - Each Toys are available with 1-year warantee.
-npm packages used:
+-
+- npm packages used:
 - Netlify.
